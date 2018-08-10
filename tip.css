@@ -1,0 +1,25 @@
+body {
+  position: relative;
+  top: 50px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+.button {
+  position: relative;
+  top: 15px;
+}
+.totalTips {
+  position: relative;
+  top: 15px;
+}
+
+#finalTip {
+  position: relative;
+  top: 15px;j
+}
